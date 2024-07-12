@@ -1,1 +1,1 @@
-# econometrics-game
+## 2024 Econometrics Game
